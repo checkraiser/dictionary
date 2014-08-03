@@ -1,0 +1,511 @@
+A*http://whatis.techtarget.com/definition/area-A
+A esu*http://whatis.techtarget.com/definition/statampere-statA-or-A-esu
+A Plus*http://searchwindowsserver.techtarget.com/definition/A-A-Plus
+A Programming Language*http://whatis.techtarget.com/definition/APL-a-programming-language
+A Symphony of Lights*http://whatis.techtarget.com/definition/A-Symphony-of-Lights
+a vacuum*http://whatis.techtarget.com/definition/permeability-of-free-space-a-vacuum
+A+*http://searchwindowsserver.techtarget.com/definition/A-A-Plus
+A+ (A Plus)*http://searchwindowsserver.techtarget.com/definition/A-A-Plus
+A-esu*http://whatis.techtarget.com/definition/statampere-statA-or-A-esu
+A-Law*http://searchnetworking.techtarget.com/definition/A-Law
+A-Plus*http://searchwindowsserver.techtarget.com/definition/A-A-Plus
+A-weighted decibels*http://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa
+A-weighted decibels (dBA, or dBa, or dB(a))*http://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa
+a.f.*http://whatis.techtarget.com/definition/AF-audio-frequency-or-af
+A.I.*http://searchmobilecomputing.techtarget.com/definition/Airborne-Internet
+A/m*http://whatis.techtarget.com/definition/ampere-per-meter-A-m-Oe-oersted
+A/m 2*http://whatis.techtarget.com/definition/ampere-per-meter-squared-A-m-2
+A/m squared*http://whatis.techtarget.com/definition/ampere-per-meter-squared-A-m-2
+A/V*http://whatis.techtarget.com/definition/AV-audio-video
+a2b*http://whatis.techtarget.com/definition/a2b
+AA*http://searchnetworking.techtarget.com/definition/modem-lights
+AAA*http://searchsecurity.techtarget.com/definition/authentication-authorization-and-accounting
+AAA server*http://searchsecurity.techtarget.com/definition/AAA-server
+AAA server (authentication, authorization, and ...*http://searchsecurity.techtarget.com/definition/AAA-server
+AAAA resource record*http://whatis.techtarget.com/definition/AAAA-resource-record
+Aadhaar*http://searchcio.techtarget.in/definition/Aadhaar-or-Unique-identification-number-UID
+Aakash tablet computer*http://searchcio.techtarget.in/definition/Aakash-tablet-computer
+AARP*http://searchnetworking.techtarget.com/definition/AARP
+AARP (AppleTalk Address Resolution Protocol)*http://searchnetworking.techtarget.com/definition/AARP
+AAUI*http://searchnetworking.techtarget.com/definition/AAUI
+AAUI (Apple attachment unit interface)*http://searchnetworking.techtarget.com/definition/AAUI
+ab W*http://whatis.techtarget.com/definition/abohm-ab-W
+abA*http://whatis.techtarget.com/definition/abampere-abA
+abacus*http://whatis.techtarget.com/definition/abacus
+abampere*http://whatis.techtarget.com/definition/abampere-abA
+abampere (abA)*http://whatis.techtarget.com/definition/abampere-abA
+abandoned call*http://searchcrm.techtarget.com/definition/abandoned-call
+abandonware*http://whatis.techtarget.com/definition/abandonware
+ABAP*http://searchsap.techtarget.com/definition/ABAP
+ABAP (Advanced Business Application Programming)*http://searchsap.techtarget.com/definition/ABAP
+ABAP Objects*http://searchsap.techtarget.com/definition/ABAP-Objects
+ABAP Workbench*http://searchsap.techtarget.com/definition/ABAP-Workbench
+ABBH*http://searchnetworking.techtarget.com/definition/average-bouncing-busy-hour
+abC*http://whatis.techtarget.com/definition/abcoulomb-abC
+ABC classification*http://searchmanufacturingerp.techtarget.com/definition/ABC-classification
+ABCD*http://whatis.techtarget.com/definition/ABCD-data-switch
+ABCD data switch*http://whatis.techtarget.com/definition/ABCD-data-switch
+abcoulomb*http://whatis.techtarget.com/definition/abcoulomb-abC
+abcoulomb (abC)*http://whatis.techtarget.com/definition/abcoulomb-abC
+abend*http://searchdatacenter.techtarget.com/definition/abend
+abend (abnormal end)*http://searchdatacenter.techtarget.com/definition/abend
+abF*http://whatis.techtarget.com/definition/abfarad-abF
+abfarad*http://whatis.techtarget.com/definition/abfarad-abF
+abfarad (abF)*http://whatis.techtarget.com/definition/abfarad-abF
+abH*http://whatis.techtarget.com/definition/abhenry-abH
+abhenry*http://whatis.techtarget.com/definition/abhenry-abH
+abhenry (abH)*http://whatis.techtarget.com/definition/abhenry-abH
+abnormal end*http://searchdatacenter.techtarget.com/definition/abend
+abohm*http://whatis.techtarget.com/definition/abohm-ab-W
+abohm (ab W)*http://whatis.techtarget.com/definition/abohm-ab-W
+above the fold*http://whatis.techtarget.com/definition/above-the-fold
+abS*http://whatis.techtarget.com/definition/absiemens-abS
+absiemens*http://whatis.techtarget.com/definition/absiemens-abS
+absiemens (abS)*http://whatis.techtarget.com/definition/absiemens-abS
+absolute link*http://whatis.techtarget.com/definition/absolute-link
+absolute truth*http://whatis.techtarget.com/definition/absolute-truth
+absolute value*http://whatis.techtarget.com/definition/absolute-value
+Abstract Syntax Notation One*http://whatis.techtarget.com/definition/ASN1-Abstract-Syntax-Notation-One
+Abstract Window Toolkit*http://whatis.techtarget.com/definition/Abstract-Window-Toolkit-AWT
+Abstract Window Toolkit (AWT)*http://whatis.techtarget.com/definition/Abstract-Window-Toolkit-AWT
+abstraction*http://whatis.techtarget.com/definition/abstraction
+abV*http://whatis.techtarget.com/definition/abvolt-abV
+abvolt*http://whatis.techtarget.com/definition/abvolt-abV
+abvolt (abV)*http://whatis.techtarget.com/definition/abvolt-abV
+ABVS*http://searchitchannel.techtarget.com/definition/Automated-Best-Value-System
+abW*http://whatis.techtarget.com/definition/abwatt-abW
+abwatt*http://whatis.techtarget.com/definition/abwatt-abW
+abwatt (abW)*http://whatis.techtarget.com/definition/abwatt-abW
+AC*http://whatis.techtarget.com/definition/alternating-current-AC
+AC 3*http://whatis.techtarget.com/definition/AC-3-Dolby-Digital
+AC-3*http://whatis.techtarget.com/definition/AC-3-Dolby-Digital
+AC-3 (Dolby Digital)*http://whatis.techtarget.com/definition/AC-3-Dolby-Digital
+academic analytics*http://searchcio.techtarget.com/definition/academic-analytics
+Accelerated Graphics Port*http://searchmobilecomputing.techtarget.com/definition/Accelerated-Graphics-Port
+Accelerated Graphics Port (AGP)*http://searchmobilecomputing.techtarget.com/definition/Accelerated-Graphics-Port
+Accelerated Hub Architecture*http://searchwindowsserver.techtarget.com/definition/Accelerated-Hub-Architecture
+Accelerated Hub Architecture (AHA) (or Intel Hu...*http://searchwindowsserver.techtarget.com/definition/Accelerated-Hub-Architecture
+Accelerated SAP*http://searchsap.techtarget.com/definition/ASAP
+AcceleratedASP*http://searchsap.techtarget.com/definition/ASAP
+AcceleratedSAP*http://searchsap.techtarget.com/definition/ASAP
+acceleration hardware*http://searchnetworking.techtarget.com/definition/acceleration-hardware
+acceleration server*http://searchnetworking.techtarget.com/definition/high-speed-dialup
+accelerator*http://searchsap.techtarget.com/definition/ASAP
+accelerometer*http://whatis.techtarget.com/definition/accelerometer
+acceptable use policy*http://whatis.techtarget.com/definition/acceptable-use-policy-AUP
+acceptable use policy (AUP)*http://whatis.techtarget.com/definition/acceptable-use-policy-AUP
+acceptance test*http://searchsoftwarequality.techtarget.com/definition/acceptance-test
+acceptance testing*http://searchsoftwarequality.techtarget.com/definition/acceptance-test
+access*http://whatis.techtarget.com/definition/access
+access control*http://searchsecurity.techtarget.com/definition/access-control
+Access Control Facility*http://searchdatacenter.techtarget.com/definition/ACF2
+access control list*http://searchsoftwarequality.techtarget.com/definition/access-control-list
+access control list (ACL)*http://searchsoftwarequality.techtarget.com/definition/access-control-list
+access layer*http://searchdatacenter.techtarget.com/definition/access-layer
+access list (AL)*http://searchcompliance.techtarget.com/definition/access-list-AL
+access log*http://searchsecurity.techtarget.com/definition/access-log
+access method*http://searchstorage.techtarget.com/definition/access-method
+access network*http://whatis.techtarget.com/definition/access-network
+Access Network Query Protocol (ANQP)*http://whatis.techtarget.com/definition/Access-Network-Query-Protocol-ANQP
+access point*http://searchmobilecomputing.techtarget.com/definition/access-point
+access point base station*http://searchtelecom.techtarget.com/definition/access-point-base-station
+access point mapping*http://searchmobilecomputing.techtarget.com/definition/war-driving
+access provider*http://searchsoa.techtarget.com/definition/access-provider
+access time*http://searchstorage.techtarget.com/definition/access-time
+accessability*http://searchcio.techtarget.com/definition/Section-508
+AccessChk*http://searchwindowsserver.techtarget.com/definition/AccessChk
+AccessEnum*http://searchwindowsserver.techtarget.com/definition/AccessEnum
+accessibility testing*http://whatis.techtarget.com/definition/accessibility-testing
+account*http://searchfinancialapplications.techtarget.com/definition/account
+accountable care organization (ACO)*http://whatis.techtarget.com/definition/accountable-care-organization-ACO
+accounting error*http://whatis.techtarget.com/definition/accounting-error
+accounts payable*http://searchfinancialapplications.techtarget.com/definition/accounts-payable
+accounts receivable*http://searchfinancialapplications.techtarget.com/definition/accounts-receivable
+accumulator*http://whatis.techtarget.com/definition/accumulator
+ACD*http://searchcrm.techtarget.com/definition/Automatic-Call-Distributor
+ACeS*http://searchmobilecomputing.techtarget.com/definition/Asia-Cellular-Satellite-System
+ACF2*http://searchdatacenter.techtarget.com/definition/ACF2
+ACF2 or CA-ACF2 (Access Control Facility)*http://searchdatacenter.techtarget.com/definition/ACF2
+ACH*http://searchsecurity.techtarget.com/definition/Automated-Clearing-House
+Achievers Corp.*http://searchfinancialapplications.techtarget.com/definition/Achievers-Corp
+achromatic*http://whatis.techtarget.com/definition/achromatic
+ACID*http://searchsqlserver.techtarget.com/definition/ACID
+ACID (atomicity, consistency, isolation, and du...*http://searchsqlserver.techtarget.com/definition/ACID
+ACK*http://searchnetworking.techtarget.com/definition/ACK
+ACL*http://searchsoftwarequality.techtarget.com/definition/access-control-list
+ACM*http://whatis.techtarget.com/definition/ACM-Association-for-Computing-Machinery
+ACM (Association for Computing Machinery)*http://whatis.techtarget.com/definition/ACM-Association-for-Computing-Machinery
+acoustic coupler*http://searchnetworking.techtarget.com/definition/acoustic-coupler
+acoustic wave*http://whatis.techtarget.com/definition/sound-wave
+acoustical infection*http://whatis.techtarget.com/definition/acoustical-infection
+ACPI*http://searchwindowsserver.techtarget.com/definition/ACPI-Advanced-Configuration-and-Power-Interface
+ACPI (Advanced Configuration and Power Interface)*http://searchwindowsserver.techtarget.com/definition/ACPI-Advanced-Configuration-and-Power-Interface
+ACR*http://searchnetworking.techtarget.com/definition/attenuation-to-crosstalk-ratio
+Acrobat*http://whatis.techtarget.com/definition/Acrobat
+acronym*http://whatis.techtarget.com/definition/acronym
+acronyms used in online chatting*http://searchcrm.techtarget.com/definition/Twitter-chat-and-text-messaging-abbreviations
+Acrylic*http://searchwindevelopment.techtarget.com/definition/Expression-Graphic-Designer
+ACT*http://searchmobilecomputing.techtarget.com/definition/Application-Compatibility-Toolkit
+ACTA*http://searchnetworking.techtarget.com/definition/ACTA
+ACTA (America's Carriers Telecommunications Ass...*http://searchnetworking.techtarget.com/definition/ACTA
+action item*http://whatis.techtarget.com/definition/action-item
+action plan*http://whatis.techtarget.com/definition/action-plan
+actionable*http://whatis.techtarget.com/definition/actionable
+actionable intelligence*http://whatis.techtarget.com/definition/actionable-intelligence
+ActionScript*http://searchsoa.techtarget.com/definition/ActionScript
+ActionScript Cheat Sheets*http://whatis.techtarget.com/reference/ActionScript-Cheat-Sheets
+active archive*http://searchstorage.techtarget.com/definition/active-archive
+active cooling*http://whatis.techtarget.com/definition/active-cooling
+Active Directory*http://searchwindowsserver.techtarget.com/definition/Active-Directory
+Active Directory Certificate Services (AD CS)*http://searchwindowsserver.techtarget.com/definition/Active-Directory-Certificate-Services-AD-CS
+Active Directory domain (AD domain)*http://searchwindowsserver.techtarget.com/definition/Active-Directory-domain-AD-domain
+Active Directory Federation Services (AD Federa...*http://searchconsumerization.techtarget.com/definition/Active-Directory-Federation-Services-AD-Federation-Services
+Active Directory forest (AD forest)*http://searchwindowsserver.techtarget.com/definition/Active-Directory-forest-AD-forest
+Active Directory tree (AD tree)*http://searchwindowsserver.techtarget.com/definition/Active-Directory-tree-AD-tree
+active man in the middle attack*http://searchsecurity.techtarget.in/definition/active-man-in-the-middle-attack
+active man-in-the-middle attack*http://searchsecurity.techtarget.in/definition/active-man-in-the-middle-attack
+active man-in-the-middle attack (MitM)*http://searchsecurity.techtarget.in/definition/active-man-in-the-middle-attack
+active matrix display*http://whatis.techtarget.com/definition/active-matrix-display-thin-film-transistor-or-TFT
+active matrix display (thin film transistor or ...*http://whatis.techtarget.com/definition/active-matrix-display-thin-film-transistor-or-TFT
+active network*http://searchnetworking.techtarget.com/definition/active-network
+active reconnaissance*http://whatis.techtarget.com/definition/active-reconnaissance
+Active Server Page*http://searchwindowsserver.techtarget.com/definition/Active-Server-Page
+Active Server Page (ASP)*http://searchwindowsserver.techtarget.com/definition/Active-Server-Page
+Active Server Pages (ASP) Cheat Sheets*http://whatis.techtarget.com/reference/Active-Server-Pages-ASP-Cheat-Sheets
+Active Template Library*http://whatis.techtarget.com/definition/Active-Template-Library-ATL
+Active Template Library (ATL)*http://whatis.techtarget.com/definition/Active-Template-Library-ATL
+active/active array*http://whatis.techtarget.com/definition/active-active-array
+ActiveX*http://searchenterprisedesktop.techtarget.com/definition/ActiveX
+ActiveX control*http://searchenterprisedesktop.techtarget.com/definition/ActiveX-control
+ActiveX Data Objects*http://searchsqlserver.techtarget.com/definition/ActiveX-Data-Objects
+ActiveX Data Objects (ADO)*http://searchsqlserver.techtarget.com/definition/ActiveX-Data-Objects
+ACTS*http://whatis.techtarget.com/definition/Automatic-Coin-Telephone-System-ACTS
+ACTS (Automatic Coin Telephone System)*http://searchnetworking.techtarget.com/definition/ACTS
+ad hoc*http://whatis.techtarget.com/definition/ad-hoc
+ad hoc analysis*http://searchbusinessanalytics.techtarget.com/definition/ad-hoc-analysis
+ad hoc test*http://whatis.techtarget.com/definition/ad-hoc-test
+ad hoc testing*http://whatis.techtarget.com/definition/ad-hoc-testing
+ad-hoc network*http://searchmobilecomputing.techtarget.com/definition/ad-hoc-network
+Ada*http://whatis.techtarget.com/definition/Ada
+Ada Byron, countess of Lovelace*http://whatis.techtarget.com/definition/Augusta-Ada-King-countess-of-Lovelace-Ada-Lovelace-Lady-Byron
+ADA Cheat Sheets*http://whatis.techtarget.com/reference/ADA-Cheat-Sheets
+Ada Lovelace*http://whatis.techtarget.com/definition/Augusta-Ada-King-countess-of-Lovelace-Ada-Lovelace-Lady-Byron
+adapter*http://whatis.techtarget.com/definition/card-or-expansion-card-board-or-adapter
+adaptive differential pulse code modulation*http://whatis.techtarget.com/definition/ADPCM-adaptive-differential-pulse-code-modulation
+adaptive differential pulse-code modulation*http://whatis.techtarget.com/definition/ADPCM-adaptive-differential-pulse-code-modulation
+adaptive enterprise*http://searchcio.techtarget.com/definition/adaptive-enterprise-or-adaptive-organization
+adaptive enterprise (or adaptive organization)*http://searchcio.techtarget.com/definition/adaptive-enterprise-or-adaptive-organization
+adaptive organization*http://searchcio.techtarget.com/definition/adaptive-enterprise-or-adaptive-organization
+Adaptive Planning (AP)*http://searchfinancialapplications.techtarget.com/definition/Adaptive-Planning-AP
+Adaptive Server Enterprise*http://whatis.techtarget.com/definition/Adaptive-Server-Enterprise-ASE
+Adaptive Server Enterprise (ASE)*http://whatis.techtarget.com/definition/Adaptive-Server-Enterprise-ASE
+adaptive software*http://whatis.techtarget.com/definition/assistive-software-adaptive-software
+adaptive technology*http://whatis.techtarget.com/definition/assistive-technology-adaptive-technology
+ADAT*http://whatis.techtarget.com/definition/ADAT-Alesis-Digital-Audio-Tape
+ADAT (Alesis Digital Audio Tape)*http://whatis.techtarget.com/definition/ADAT-Alesis-Digital-Audio-Tape
+ADC*http://whatis.techtarget.com/definition/analog-to-digital-conversion-ADC
+add-in*http://whatis.techtarget.com/definition/add-in
+add-on*http://whatis.techtarget.com/definition/add-on
+address*http://searchnetworking.techtarget.com/definition/address
+Address Resolution Protocol*http://searchnetworking.techtarget.com/definition/Address-Resolution-Protocol-ARP
+Address Resolution Protocol (ARP)*http://searchnetworking.techtarget.com/definition/Address-Resolution-Protocol-ARP
+address sign*http://searchsoa.techtarget.com/definition/at-sign
+address space*http://searchstorage.techtarget.com/definition/address-space
+address space layout randomization (ASLR)*http://searchsecurity.techtarget.com/definition/address-space-layout-randomization-ASLR
+addressability*http://whatis.techtarget.com/definition/addressability
+addressable call endpoint*http://searchunifiedcommunications.techtarget.com/definition/dial-peer
+ADF*http://whatis.techtarget.com/definition/ADF-automatic-document-feed
+ADF (automatic document feed)*http://whatis.techtarget.com/definition/ADF-automatic-document-feed
+adhocracy*http://whatis.techtarget.com/definition/adhocracy
+adiabatic cooling*http://whatis.techtarget.com/definition/adiabatic-cooling
+adjective*http://whatis.techtarget.com/definition/adjective
+administrator code*http://searchitchannel.techtarget.com/definition/administrator-code
+Admiral Grace Hopper*http://whatis.techtarget.com/definition/Rear-Admiral-Grace-Murray-Hopper
+admittance*http://whatis.techtarget.com/definition/admittance-Y
+admittance (Y)*http://whatis.techtarget.com/definition/admittance-Y
+ADO*http://searchsqlserver.techtarget.com/definition/ActiveX-Data-Objects
+Adobe AIR*http://whatis.techtarget.com/definition/Adobe-AIR
+Adobe Buzzword*http://whatis.techtarget.com/definition/Adobe-Buzzword
+Adobe Flash Player*http://searchcio.techtarget.com/definition/Adobe-Flash-Player
+Adobe Publish*http://searchcontentmanagement.techtarget.com/definition/Adobe-Publish
+ADPCM*http://whatis.techtarget.com/definition/ADPCM-adaptive-differential-pulse-code-modulation
+ADPCM (adaptive differential pulse-code modulat...*http://whatis.techtarget.com/definition/ADPCM-adaptive-differential-pulse-code-modulation
+ADS*http://searchsecurity.techtarget.com/definition/alternate-data-stream
+ADSI*http://whatis.techtarget.com/definition/ADSI-Analog-Display-Services-Interface
+ADSI (Analog Display Services Interface)*http://whatis.techtarget.com/definition/ADSI-Analog-Display-Services-Interface
+ADSL*http://searchnetworking.techtarget.com/definition/ADSL
+ADSL (Asymmetric Digital Subscriber Line)*http://searchnetworking.techtarget.com/definition/ADSL
+ADSL Terminal Unit - Remote*http://searchnetworking.techtarget.com/definition/ATU-R
+ADSL Terminal Unit Remote*http://searchnetworking.techtarget.com/definition/ATU-R
+ADSM*http://searchstorage.techtarget.com/definition/ADSTAR-Distributed-Storage-Management
+ADSTAR Distributed Storage Management*http://searchstorage.techtarget.com/definition/ADSTAR-Distributed-Storage-Management
+ADSTAR Distributed Storage Management (ADSM)*http://searchstorage.techtarget.com/definition/ADSTAR-Distributed-Storage-Management
+advanced analytics*http://searchbusinessanalytics.techtarget.com/definition/advanced-analytics
+Advanced Business Application Programming*http://searchsap.techtarget.com/definition/ABAP
+Advanced Configuration and Power Interface*http://searchwindowsserver.techtarget.com/definition/ACPI-Advanced-Configuration-and-Power-Interface
+Advanced Encryption Standard*http://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
+Advanced Encryption Standard (AES)*http://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
+advanced evasion technique*http://searchsecurity.techtarget.com/definition/advanced-evasion-technique-AET
+advanced evasion technique (AET)*http://searchsecurity.techtarget.com/definition/advanced-evasion-technique-AET
+Advanced Function Printing*http://search400.techtarget.com/definition/Advanced-Function-Printing
+Advanced Function Printing (AFP)*http://search400.techtarget.com/definition/Advanced-Function-Printing
+Advanced Intelligent Network*http://searchnetworking.techtarget.com/definition/Advanced-Intelligent-Network
+Advanced Intelligent Network (AIN)*http://searchnetworking.techtarget.com/definition/Advanced-Intelligent-Network
+advanced intelligent tape*http://searchstorage.techtarget.com/definition/AIT
+Advanced Interactive eXecutive*http://search400.techtarget.com/definition/AIX
+advanced metering infrastructure*http://whatis.techtarget.com/definition/advanced-metering-infrastructure-AMI
+advanced metering infrastructure (AMI)*http://whatis.techtarget.com/definition/advanced-metering-infrastructure-AMI
+Advanced Micro Devices*http://searchservervirtualization.techtarget.com/definition/AMD
+Advanced Mobile Phone Service*http://searchmobilecomputing.techtarget.com/definition/Advanced-Mobile-Phone-Service
+Advanced Mobile Phone Service (AMPS)*http://searchmobilecomputing.techtarget.com/definition/Advanced-Mobile-Phone-Service
+Advanced Peer to Peer Networking*http://whatis.techtarget.com/definition/Advanced-Peer-to-Peer-Networking-APPN
+Advanced Peer-to-Peer Networking*http://whatis.techtarget.com/definition/Advanced-Peer-to-Peer-Networking-APPN
+Advanced Peer-to-Peer Networking (APPN)*http://whatis.techtarget.com/definition/Advanced-Peer-to-Peer-Networking-APPN
+advanced persistent threat*http://searchsecurity.techtarget.com/definition/advanced-persistent-threat-APT
+advanced persistent threat (APT)*http://searchsecurity.techtarget.com/definition/advanced-persistent-threat-APT
+Advanced Planner and Optimizer*http://searchsap.techtarget.com/definition/Advanced-Planner-and-Optimizer
+Advanced Planner and Optimizer (APO)*http://searchsap.techtarget.com/definition/Advanced-Planner-and-Optimizer
+advanced planning and scheduling*http://searchmanufacturingerp.techtarget.com/definition/advanced-planning-and-scheduling-APS
+advanced planning and scheduling (APS)*http://searchmanufacturingerp.techtarget.com/definition/advanced-planning-and-scheduling-APS
+Advanced Program-to-Program Communication*http://searchnetworking.techtarget.com/definition/APPC
+Advanced Research Projects Agency*http://searchnetworking.techtarget.com/definition/ARPA
+Advanced Research Projects Agency Network*http://searchnetworking.techtarget.com/definition/ARPANET
+Advanced SCSI Programming Interface*http://searchstorage.techtarget.com/definition/ASPI
+Advanced SCSI Programming Interface driver*http://searchwindowsserver.techtarget.com/definition/ASPI-driver-Advanced-SCSI-Programming-Interface-driver
+advanced shipping notice*http://searchmanufacturingerp.techtarget.com/definition/advanced-shipping-notice-ASN
+advanced shipping notice (ASN)*http://searchmanufacturingerp.techtarget.com/definition/advanced-shipping-notice-ASN
+Advanced Technology Attachment*http://whatis.techtarget.com/definition/ATA-Advanced-Technology-Attachment
+Advanced Television*http://whatis.techtarget.com/definition/ATV-advanced-television
+Advanced Television Enhancement Forum*http://whatis.techtarget.com/definition/Advanced-Television-Enhancement-Forum-ATVEF
+Advanced Television Enhancement Forum (ATVEF)*http://whatis.techtarget.com/definition/Advanced-Television-Enhancement-Forum-ATVEF
+Advanced Television Systems Committee*http://whatis.techtarget.com/definition/Advanced-Television-Systems-Committee-ATSC
+Advanced Television Systems Committee (ATSC)*http://whatis.techtarget.com/definition/Advanced-Television-Systems-Committee-ATSC
+AdventureWorks Database*http://searchsqlserver.techtarget.com/definition/AdventureWorks-Database
+adverb*http://whatis.techtarget.com/definition/adverb
+advertising terminology on the Internet*http://whatis.techtarget.com/reference/advertising-terminology-on-the-Internet
+adware*http://searchsecurity.techtarget.com/definition/adware
+AEBU*http://whatis.techtarget.com/definition/Audio-Engineers-Society-European-Broadcasting-Union-AES-EBU
+aerogel*http://whatis.techtarget.com/definition/aerogel
+AES*http://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
+AET*http://searchsecurity.techtarget.com/definition/advanced-evasion-technique-AET
+AF*http://whatis.techtarget.com/definition/anisotropic-filtering-AF
+AF (audio frequency or a.f.)*http://whatis.techtarget.com/definition/AF-audio-frequency-or-af
+AFC*http://searchstorage.techtarget.com/definition/pixie-dust
+AFC media*http://searchstorage.techtarget.com/definition/pixie-dust
+affective computing*http://whatis.techtarget.com/definition/affective-computing
+affiliate*http://whatis.techtarget.com/definition/affiliate
+affiliate (associate)*http://whatis.techtarget.com/definition/affiliate-associate
+affinity rules*http://searchvmware.techtarget.com/definition/affinity-rules
+AFIS*http://searchsecurity.techtarget.com/definition/Automated-Fingerprint-Identification-System
+AFM*http://whatis.techtarget.com/definition/atomic-force-microscopy-AFM
+AFP*http://search400.techtarget.com/definition/Advanced-Function-Printing
+AFS*http://searchstorage.techtarget.com/definition/Andrew-file-system
+Agency for Healthcare Research and Quality*http://searchhealthit.techtarget.com/definition/Agency-for-Healthcare-Research-and-Quality-AHRQ
+Agency for Healthcare Research and Quality (AHRQ)*http://searchhealthit.techtarget.com/definition/Agency-for-Healthcare-Research-and-Quality-AHRQ
+agent*http://whatis.techtarget.com/definition/agent-intelligent-agent
+agent (intelligent agent)*http://whatis.techtarget.com/definition/agent-intelligent-agent
+aggregate*http://whatis.techtarget.com/definition/aggregate
+aggregator*http://searchnetworking.techtarget.com/definition/aggregator
+agile applet*http://searchsoa.techtarget.com/definition/aglet
+Agile concepts quiz*http://whatis.techtarget.com/quiz/Agile-concepts-quiz
+Agile glossary: Words-2-Go*http://whatis.techtarget.com/definition/Agile-glossary-Words-2-Go
+Agile Manifesto*http://searchcio.techtarget.com/definition/Agile-Manifesto
+agile project management*http://searchcio.techtarget.com/definition/Agile-project-management
+Agile retrospective*http://searchsoftwarequality.techtarget.com/definition/Agile-retrospective
+agile software development*http://searchsoftwarequality.techtarget.com/definition/agile-software-development
+agile software development (ASD)*http://searchsoftwarequality.techtarget.com/definition/agile-software-development
+Agile velocity*http://whatis.techtarget.com/definition/Agile-velocity
+agitation*http://searchmobilecomputing.techtarget.com/definition/churn
+aglet*http://searchsoa.techtarget.com/definition/aglet
+aglet (agile applet)*http://searchsoa.techtarget.com/definition/aglet
+agnostic*http://whatis.techtarget.com/definition/agnostic
+AGP*http://searchmobilecomputing.techtarget.com/definition/Accelerated-Graphics-Port
+Ah*http://whatis.techtarget.com/definition/ampere-hour-Ah-or-amp-hour
+AHA*http://searchwindowsserver.techtarget.com/definition/Accelerated-Hub-Architecture
+AHIMA*http://searchhealthit.techtarget.com/definition/American-Health-Information-Management-Association-AHIMA
+AHRQ*http://searchhealthit.techtarget.com/definition/Agency-for-Healthcare-Research-and-Quality-AHRQ
+AHT*http://searchcrm.techtarget.com/definition/average-handle-time
+AI*http://searchcio.techtarget.com/definition/AI
+AI (Artificial Intelligence)*http://searchcio.techtarget.com/definition/AI
+AIBO*http://searchcio.techtarget.com/definition/AIBO
+AIBO (Artificial Intelligence roBOt)*http://searchcio.techtarget.com/definition/AIBO
+AICPA (American Institute of Certified Public A...*http://searchcompliance.techtarget.com/definition/AICPA-American-Institute-of-Certified-Public-Accountants
+AIDC*http://searchmanufacturingerp.techtarget.com/definition/Automatic-Identification-and-Data-Capture-AIDC
+AIFF*http://whatis.techtarget.com/definition/AIFF-Audio-Interchange-File-Format
+AIFF (Audio Interchange File Format)*http://whatis.techtarget.com/definition/AIFF-Audio-Interchange-File-Format
+AIM*http://searchunifiedcommunications.techtarget.com/definition/instant-messaging
+AIN*http://searchnetworking.techtarget.com/definition/Advanced-Intelligent-Network
+air conditioning*http://searchdatacenter.techtarget.com/definition/HVAC
+air gapping*http://whatis.techtarget.com/definition/air-gapping
+air interface*http://searchmobilecomputing.techtarget.com/definition/air-interface
+Airborne Internet*http://searchmobilecomputing.techtarget.com/definition/Airborne-Internet
+Airborne Internet (A.I.)*http://searchmobilecomputing.techtarget.com/definition/Airborne-Internet
+AirChat*http://whatis.techtarget.com/definition/AirChat
+airplane mode*http://whatis.techtarget.com/definition/airplane-mode
+AIT*http://searchstorage.techtarget.com/definition/AIT
+AIT (advanced intelligent tape)*http://searchstorage.techtarget.com/definition/AIT
+AIX*http://search400.techtarget.com/definition/AIX
+AIX (Advanced Interactive eXecutive)*http://search400.techtarget.com/definition/AIX
+Ajax*http://searchwindevelopment.techtarget.com/definition/Ajax
+Ajax (Asynchronous JavaScript and XML)*http://searchwindevelopment.techtarget.com/definition/Ajax
+Ajax Cheat Sheets*http://whatis.techtarget.com/reference/Ajax-Cheat-Sheets
+Ajax quiz: Do you speak Geek?*http://whatis.techtarget.com/quiz/Ajax-quiz-Do-you-speak-Geek
+akamaize*http://searchnetworking.techtarget.com/definition/akamaize
+AKO*http://whatis.techtarget.com/definition/Army-Knowledge-Online-AKO
+ALE*http://searchsap.techtarget.com/definition/Application-Link-Enabling
+aleph*http://whatis.techtarget.com/definition/aleph
+Alesis Digital Audio Tape*http://whatis.techtarget.com/definition/ADAT-Alesis-Digital-Audio-Tape
+Alexa Internet*http://whatis.techtarget.com/definition/Alexa-Internet
+Alexa Top Sites*http://searchaws.techtarget.com/definition/Alexa-Top-Sites
+Alexa Web Information Service  (AWIS)*http://searchaws.techtarget.com/definition/Alexa-Web-Information-Service
+Alexander B. Howard, Associate Editor*http://whatis.techtarget.com/reference/Alexander-B-Howard-Associate-Editor
+algebraic number*http://whatis.techtarget.com/definition/algebraic-number
+algorithm*http://whatis.techtarget.com/definition/algorithm
+alias*http://searchsoa.techtarget.com/definition/alias
+aliasing*http://whatis.techtarget.com/definition/aliasing
+alien crosstalk*http://searchdatacenter.techtarget.com/definition/alien-crosstalk
+alien crosstalk (AXT)*http://searchdatacenter.techtarget.com/definition/alien-crosstalk
+ALL*http://whatis.techtarget.com/reference/ALL
+All Categories:*http://whatis.techtarget.com/reference/All-Categories
+All our Information Kits*http://whatis.techtarget.com/definition/IT-Survival-Kits
+All our Words-to-Go*http://whatis.techtarget.com/definition/All-our-Words-to-Go
+Allied Digital Services Ltd*http://searchdatacenter.techtarget.in/definition/Allied-Digital
+Allscripts*http://searchhealthit.techtarget.com/definition/Allscripts
+ALM*http://searchsoftwarequality.techtarget.com/definition/application-lifecycle-management
+Aloha*http://searchnetworking.techtarget.com/definition/Aloha
+Aloha (Aloha method)*http://searchnetworking.techtarget.com/definition/Aloha
+Aloha method*http://searchnetworking.techtarget.com/definition/Aloha
+Alohanet*http://searchnetworking.techtarget.com/definition/Ethernet
+Alpha*http://whatis.techtarget.com/definition/Alpha
+alphameric*http://whatis.techtarget.com/definition/alphanumeric-alphameric
+alphanumeric*http://whatis.techtarget.com/definition/alphanumeric-alphameric
+alphanumeric (alphameric)*http://whatis.techtarget.com/definition/alphanumeric-alphameric
+Alphanumerish*http://whatis.techtarget.com/definition/Alphanumerish
+ALPR*http://whatis.techtarget.com/definition/Automated-License-Plate-Recognition-ALPR
+alt group*http://whatis.techtarget.com/definition/alternate-newsgroup-alt
+alt text (alternative text)*http://whatis.techtarget.com/definition/alt-text-alternative-text
+alt.*http://whatis.techtarget.com/definition/alternate-newsgroup-alt
+Altair*http://whatis.techtarget.com/definition/Altair
+AltaVista*http://searchsoa.techtarget.com/definition/AltaVista
+altdot*http://whatis.techtarget.com/definition/alternate-newsgroup-alt
+alternate data stream*http://searchsecurity.techtarget.com/definition/alternate-data-stream
+alternate data stream (ADS)*http://searchsecurity.techtarget.com/definition/alternate-data-stream
+alternate newsgroup*http://whatis.techtarget.com/definition/alternate-newsgroup-alt
+alternate newsgroup (alt.)*http://whatis.techtarget.com/definition/alternate-newsgroup-alt
+alternating current*http://whatis.techtarget.com/definition/alternating-current-AC
+alternating current (AC)*http://whatis.techtarget.com/definition/alternating-current-AC
+ALU*http://whatis.techtarget.com/definition/arithmetic-logic-unit-ALU
+alureon*http://searchsecurity.techtarget.com/definition/TDL-4-TDSS-or-Alureon
+AlwaysOn Availability Groups*http://searchsqlserver.techtarget.com/definition/AlwaysOn-Availability-Groups
+AM*http://whatis.techtarget.com/definition/amplitude-modulation-AM
+Amalga*http://searchhealthit.techtarget.com/definition/Amalga
+amateur radio*http://searchmobilecomputing.techtarget.com/definition/amateur-radio
+amateur radio (ham radio)*http://searchmobilecomputing.techtarget.com/definition/amateur-radio
+amateur teleprinting over radio*http://searchnetworking.techtarget.com/definition/AMTOR
+Amaya*http://searchsoa.techtarget.com/definition/Amaya
+Amazon*http://whatis.techtarget.com/definition/Amazon
+Amazon AppStream*http://searchaws.techtarget.com/definition/Amazon-AppStream
+Amazon Cloud Drive*http://searchconsumerization.techtarget.com/definition/Amazon-Cloud-Drive
+Amazon CloudSearch*http://searchaws.techtarget.com/definition/Amazon-CloudSearch
+Amazon CloudWatch*http://searchaws.techtarget.com/definition/Amazon-CloudWatch
+Amazon Dynamo Database (DDB)*http://searchaws.techtarget.com/definition/Amazon-Dynamo-Database-DDB
+Amazon EC2*http://searchaws.techtarget.com/definition/Amazon-Elastic-Compute-Cloud-Amazon-EC2
+Amazon EC2 instance*http://searchaws.techtarget.com/definition/Amazon-EC2-instances
+Amazon Elastic Compute Cloud*http://searchaws.techtarget.com/definition/Amazon-Elastic-Compute-Cloud-Amazon-EC2
+Amazon Elastic Compute Cloud (Amazon EC2)*http://searchaws.techtarget.com/definition/Amazon-Elastic-Compute-Cloud-Amazon-EC2
+Amazon Elastic MapReduce (Amazon EMR)*http://searchaws.techtarget.com/definition/Amazon-Elastic-MapReduce-Amazon-EMR
+Amazon ElastiCache*http://searchaws.techtarget.com/definition/Amazon-ElastiCache
+Amazon Flexible Payments Service (Amazon FPS)*http://searchaws.techtarget.com/definition/Amazon-Flexible-Payments-Service-Amazon-FPS
+Amazon Kindle Touch*http://searchconsumerization.techtarget.com/definition/Amazon-Kindle-Touch
+Amazon Kinesis*http://searchaws.techtarget.com/definition/Amazon-Kinesis
+Amazon Machine Image (AMI)*http://searchaws.techtarget.com/definition/Amazon-Machine-Image-AMI
+Amazon Mechanical Turk*http://searchaws.techtarget.com/definition/Amazon-Mechanical-Turk
+Amazon Prime Air drone*http://whatis.techtarget.com/definition/Amazon-Prime-Air-drone
+Amazon RedShift*http://searchaws.techtarget.com/definition/Amazon-RedShift
+Amazon Relational Database Service (RDS)*http://searchaws.techtarget.com/definition/Amazon-Relational-Database-Service-RDS
+Amazon S3*http://searchaws.techtarget.com/definition/Amazon-Simple-Storage-Service-Amazon-S3
+Amazon Silk*http://whatis.techtarget.com/definition/Amazon-Silk
+Amazon Simple Storage Service*http://searchaws.techtarget.com/definition/Amazon-Simple-Storage-Service-Amazon-S3
+Amazon Simple Storage Service (Amazon S3)*http://searchaws.techtarget.com/definition/Amazon-Simple-Storage-Service-Amazon-S3
+Amazon Web Services*http://searchaws.techtarget.com/definition/AWS-import-export-Amazon-Web-Services
+Amazon Web Services (AWS)*http://whatis.techtarget.com/definition/Amazon-Web-Services-AWS
+ambient air cooling*http://whatis.techtarget.com/definition/ambient-air-cooling
+ambient energy scavenging*http://whatis.techtarget.com/definition/ambient-energy-scavenging
+ambient temperature*http://searchdatacenter.techtarget.com/definition/ambient-temperature
+ambulatory medical record*http://searchhealthit.techtarget.com/definition/ambulatory-medical-record
+ambulatory medical record (AMR)*http://searchhealthit.techtarget.com/definition/ambulatory-medical-record
+AMD*http://searchservervirtualization.techtarget.com/definition/AMD
+AMD (Advanced Micro Devices)*http://searchservervirtualization.techtarget.com/definition/AMD
+AMD K6*http://whatis.techtarget.com/definition/K6-AMD-K6
+AMD V*http://searchservervirtualization.techtarget.com/definition/AMD-V
+AMD virtualization*http://searchservervirtualization.techtarget.com/definition/AMD-V
+AMD-K6*http://whatis.techtarget.com/definition/K6-AMD-K6
+AMD-V*http://searchservervirtualization.techtarget.com/definition/AMD-V
+AMD-V (AMD virtualization)*http://searchservervirtualization.techtarget.com/definition/AMD-V
+Amdahl's law*http://whatis.techtarget.com/definition/Amdahls-law
+amelioration pattern*http://whatis.techtarget.com/definition/antipattern
+America's Carriers Telecommunications Association*http://searchnetworking.techtarget.com/definition/ACTA
+American Health Information Management Association*http://searchhealthit.techtarget.com/definition/American-Health-Information-Management-Association-AHIMA
+American Health Information Management Associat...*http://searchhealthit.techtarget.com/definition/American-Health-Information-Management-Association-AHIMA
+American Medical Informatics Association*http://searchhealthit.techtarget.com/definition/American-Medical-Informatics-Association-AMIA
+American Medical Informatics Association (AMIA)*http://searchhealthit.techtarget.com/definition/American-Medical-Informatics-Association-AMIA
+American National Standards Institute*http://searchdatacenter.techtarget.com/definition/ANSI
+American Radio Relay League*http://searchmobilecomputing.techtarget.com/definition/American-Radio-Relay-League
+American Radio Relay League (ARRL)*http://searchmobilecomputing.techtarget.com/definition/American-Radio-Relay-League
+American Recovery and Reinvestment Act of 2009*http://whatis.techtarget.com/definition/ARRA-American-Recovery-and-Reinvestment-Act-of-2009
+American Registry of Internet Numbers*http://searchsoa.techtarget.com/definition/American-Registry-of-Internet-Numbers
+American Registry of Internet Numbers (ARIN)*http://searchsoa.techtarget.com/definition/American-Registry-of-Internet-Numbers
+American Society of Heating, Refrigerating, and...*http://searchdatacenter.techtarget.com/definition/ASHRAE
+American Standard Code for Information Interchange*http://whatis.techtarget.com/definition/ASCII-American-Standard-Code-for-Information-Interchange
+American Telemedicine Association*http://searchhealthit.techtarget.com/definition/American-Telemedicine-Association-ATA
+American Telemedicine Association (ATA)*http://searchhealthit.techtarget.com/definition/American-Telemedicine-Association-ATA
+American Wire Gauge*http://searchnetworking.techtarget.com/definition/American-Wire-Gauge
+American Wire Gauge (AWG)*http://searchnetworking.techtarget.com/definition/American-Wire-Gauge
+Americas' SAP Users' Group*http://searchsap.techtarget.com/definition/ASUG
+AMI*http://whatis.techtarget.com/definition/advanced-metering-infrastructure-AMI
+AMI BIOS*http://searchwindowsserver.techtarget.com/definition/AMIBIOS-AMI-BIOS
+AMIA*http://searchhealthit.techtarget.com/definition/American-Medical-Informatics-Association-AMIA
+AMIBIOS*http://searchwindowsserver.techtarget.com/definition/AMIBIOS-AMI-BIOS
+AMIBIOS (AMI BIOS)*http://searchwindowsserver.techtarget.com/definition/AMIBIOS-AMI-BIOS
+Amiga*http://whatis.techtarget.com/definition/Amiga
+AML*http://searchfinancialsecurity.techtarget.com/definition/anti-money-laundering-software-AML
+AMOLED (active matrix OLED)*http://whatis.techtarget.com/definition/AMOLED-active-matrix-OLED
+amount of physical bulk*http://whatis.techtarget.com/definition/volume-amount-of-physical-bulk
+amount of substance*http://whatis.techtarget.com/definition/amount-of-substance-material-quantity
+amount of substance (material quantity)*http://whatis.techtarget.com/definition/amount-of-substance-material-quantity
+amount of substance concentration*http://whatis.techtarget.com/definition/amount-of-substance-concentration
+amp hour*http://whatis.techtarget.com/definition/ampere-hour-Ah-or-amp-hour
+ampere*http://whatis.techtarget.com/definition/ampere
+ampere hour*http://whatis.techtarget.com/definition/ampere-hour-Ah-or-amp-hour
+ampere hour (Ah or amp hour)*http://whatis.techtarget.com/definition/ampere-hour-Ah-or-amp-hour
+ampere per meter*http://whatis.techtarget.com/definition/ampere-per-meter-A-m-Oe-oersted
+ampere per meter (A/m, Oe, oersted)*http://whatis.techtarget.com/definition/ampere-per-meter-A-m-Oe-oersted
+ampere per meter squared*http://whatis.techtarget.com/definition/ampere-per-meter-squared-A-m-2
+ampere per meter squared (A/m 2)*http://whatis.techtarget.com/definition/ampere-per-meter-squared-A-m-2
+amplification factor*http://whatis.techtarget.com/definition/amplification-factor-gain
+amplification factor (gain)*http://whatis.techtarget.com/definition/amplification-factor-gain
+amplifier*http://whatis.techtarget.com/definition/amplifier
+amplitude modulation*http://whatis.techtarget.com/definition/amplitude-modulation-AM
+amplitude modulation (AM)*http://whatis.techtarget.com/definition/amplitude-modulation-AM
+AMPS*http://searchmobilecomputing.techtarget.com/definition/Advanced-Mobile-Phone-Service
+AMR*http://searchhealthit.techtarget.com/definition/ambulatory-medical-record
+AMR (Audio/Modem Riser or AMR slot)*http://whatis.techtarget.com/definition/AMR-Audio-Modem-Riser-or-AMR-slot
+AMR slot*http://whatis.techtarget.com/definition/AMR-Audio-Modem-Riser-or-AMR-slot
+AMSI*http://whatis.techtarget.com/definition/AMSI
+AMTOR*http://searchnetworking.techtarget.com/definition/AMTOR
+AMTOR (amateur teleprinting over radio)*http://searchnetworking.techtarget.com/definition/AMTOR
+AMU*http://whatis.techtarget.com/definition/atomic-mass-unit-AMU-or-amu
+anacronym*http://whatis.techtarget.com/definition/anacronym
+analog*http://whatis.techtarget.com/definition/analog
+analog computing*http://whatis.techtarget.com/definition/analog-computing
+Analog Display Services Interface*http://whatis.techtarget.com/definition/ADSI-Analog-Display-Services-Interface
+analog telephone adapter*http://searchunifiedcommunications.techtarget.com/definition/analog-telephone-adapter
+analog telephone adapter (ATA)*http://searchunifiedcommunications.techtarget.com/definition/analog-telephone-adapter
+analog to digital conversion*http://whatis.techtarget.com/definition/analog-to-digital-conversion-ADC
+analog-to-digital conversion*http://whatis.techtarget.com/definition/analog-to-digital-conversion-ADC
+analog-to-digital conversion (ADC)*http://whatis.techtarget.com/definition/analog-to-digital-conversion-ADC
+analytic database*http://searchbusinessanalytics.techtarget.com/definition/analytic-database
+analytical CRM*http://searchcrm.techtarget.com/definition/CRM-analytics
+Analytical Engine*http://whatis.techtarget.com/definition/Analytical-Engine
+analytics*http://searchcrm.techtarget.com/definition/CRM-analytics
+Ananova*http://whatis.techtarget.com/definition/Ananova
